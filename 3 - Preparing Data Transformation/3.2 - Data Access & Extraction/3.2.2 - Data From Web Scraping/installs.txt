@@ -1,0 +1,2 @@
+# Beautiful Soup - parse html
+pip install bs4
